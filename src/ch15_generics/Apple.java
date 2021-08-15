@@ -6,4 +6,3 @@ public class Apple {
 		return "»ç°ú";
 	}
 }
-//
